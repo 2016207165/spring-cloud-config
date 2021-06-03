@@ -1,3 +1,5 @@
 spring:
   application:
     name: microservice-foo-production.yml
+  profiles:
+    active: production-1.0
