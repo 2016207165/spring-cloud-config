@@ -2,4 +2,4 @@ spring:
   application:
     name: microservice-foo.yml
   profiles:
-    active: update-default-1.0
+    active: default-1.0
