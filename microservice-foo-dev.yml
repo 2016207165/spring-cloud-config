@@ -2,4 +2,4 @@ spring:
   application:
     name: microservice-foo-dev.yml
   profiles:
-    active: update-dev-1.0
+    active: dev-1.0
